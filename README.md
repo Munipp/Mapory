@@ -26,7 +26,7 @@ The idea for Mapory came when I was planning to show my sister around after she 
 <img src="screenshots/map_1.jpg" width="300" />
 
 ### History  
-<img src="screenshots/history_1.jpg" width="300" />
+<img src="screenshots/history.jpg" width="300" />
 
 ### Profile  
 <table>
